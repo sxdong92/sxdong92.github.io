@@ -8,7 +8,7 @@ body{
 	padding-right: 0;
 	padding-bottom: 0;
 	padding-left: 0;
-	background-image: url(images/bg.gif);
+	background-image: url(i/bg.gif);
 }
 div, h1, h2, h3, h4, p, form, label, input, textarea, img, span{
 	margin:0; padding:0;
@@ -101,7 +101,7 @@ ul{
 	margin-bottom: 0px;
 }
 .menu_divider {
-	background-image: url(images/menu_divider.jpg);
+	background-image: url(i/menu_divider.jpg);
 	background-repeat: no-repeat;
 	margin: 0px;
 	padding: 0px;
@@ -147,7 +147,7 @@ ul{
 	padding-right: 12px;
 	padding-bottom: 0px;
 	padding-left: 12px;
-	background-image: url(images/arrow_menu.jpg);
+	background-image: url(i/arrow_menu.jpg);
 	background-repeat: no-repeat;
 	background-position: center bottom;
 	float: left;
@@ -166,7 +166,7 @@ ul{
 	padding-right: 12px;
 	padding-bottom: 0px;
 	padding-left: 12px;
-	background-image: url(images/arrow_menu.jpg);
+	background-image: url(i/arrow_menu.jpg);
 	background-repeat: no-repeat;
 	background-position: center bottom;
 	float: left;
@@ -190,7 +190,7 @@ ul{
 	color: #dcd66e;
 	text-decoration: none;
 	float: none;
-	background-image: url(images/body_bg.jpg);
+	background-image: url(i/body_bg.jpg);
 	background-repeat: repeat-x;
 	background-attachment: scroll;
 	background-position: top;
@@ -293,7 +293,7 @@ ul{
 	text-transform: none;
 	color: #363636;
 	text-decoration: none;
-	background-image: url(images/leftmenu_active.jpg);
+	background-image: url(i/leftmenu_active.jpg);
 	background-repeat: no-repeat;
 	margin: 0px;
 	float: left;
@@ -312,7 +312,7 @@ ul{
 	text-transform: none;
 	color: #c46706;
 	text-decoration: none;
-	background-image: url(images/leftmenu_hover.jpg);
+	background-image: url(i/leftmenu_hover.jpg);
 	background-repeat: no-repeat;
 	margin: 0px;
 	float: left;
@@ -540,7 +540,7 @@ ul{
 	text-decoration: none;
 }
 .mid_pic {
-	background-image: url('images/school.jpg');
+	background-image: url('i/school.jpg');
 	background-repeat: no-repeat;
 	padding: 0px;
 	float: left;
@@ -559,7 +559,7 @@ ul{
 	text-transform: none;
 	color: #363636;
 	text-decoration: none;
-	background-image: url(images/mid_menu_active.jpg);
+	background-image: url(i/mid_menu_active.jpg);
 	background-repeat: no-repeat;
 	margin: 0px;
 	float: left;
@@ -578,7 +578,7 @@ ul{
 	text-transform: none;
 	color: #c46706;
 	text-decoration: none;
-	background-image: url(images/mid_menu_hover.jpg);
+	background-image: url(i/mid_menu_hover.jpg);
 	background-repeat: no-repeat;
 	margin: 0px;
 	float: left;
@@ -624,7 +624,7 @@ ul{
 	padding-left: 0px;
 }
 .calendar_pic {
-	background-image: url(images/calendar.png);
+	background-image: url(i/calendar.png);
 	background-repeat: no-repeat;
 	margin: 0px;
 	float: left;
@@ -739,7 +739,7 @@ ul{
 	text-transform: none;
 	color: #343434;
 	text-decoration: none;
-	background-image: url(images/services_link.jpg);
+	background-image: url(i/services_link.jpg);
 	background-repeat: no-repeat;
 	margin: 0px;
 	float: left;
