@@ -1,0 +1,167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>CSS模板,DIV+CSS模板,站长素材-css学习下载交流第一平台！sc.chinaz.com - Dusky</title>
+<!--[if lt IE 7]>
+        <script type="text/javascript" src="unitpngfix.js"></script>
+<![endif]--> 
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<form id="form1" name="form1" method="post" action="">
+  <div id="main">
+    <div id="topheader"> </div>
+    <div id="menu_area">
+      <div class="menuarea">
+        <div class="menutext"><a href="#" class="menu_hover">Home</a></div>
+        <div class="menu_divider"></div>
+        <div class="menutext"><a href="#" class="menu">About Us</a></div>
+        <div class="menu_divider"></div>
+        <div class="menutext"><a href="#" class="menu">Newsletter</a></div>
+        <div class="menu_divider"></div>
+        <div class="menutext"><a href="#" class="menu">Duty</a></div>
+        <div class="menu_divider"></div>
+        <div class="menutext"><a href="#" class="menu">Output</a></div>
+        <div class="menu_divider"></div>
+        <div class="menutext"><a href="#" class="menu">Solution</a></div>
+        <div class="menu_divider"></div>
+        <div class="menutext"><a href="#" class="menu">Testimonial</a></div>
+        <div class="menu_divider"></div>
+        <div class="menutext"><a href="#" class="menu">Contact Us</a></div>
+      </div>
+    </div>
+    <div id="body_area">
+      <div class="left">
+        <div class="h1">Enter new world</div>
+        <div class="h2">Nunc ut augueraesent eu urnaunc ut apraesent eu urna.</div>
+        <div class="left_text">
+          <div align="left">Nunc justo. Mauris sed ante. Sed vestibulum erat aliquet diam. Vivamus adipiscing enim sed lectus</div>
+        </div>
+        <div class="left_text">
+          <div align="left">
+            <p><a href="#" class="left_menu">Sapien lectus hendrerit nulla</a></p>
+            <p><a href="#" class="left_menu">Congue libero et justo</a></p>
+            <p><a href="#" class="left_menu">Duis feli duis vitae ligula corbista</a></p>
+            <p><a href="#" class="left_menu">Sollicitudin lacinia quam</a></p>
+          </div>
+        </div>
+        <div class="h3">User Login </div>
+        <div class="h2">Mauris auctor lorem sit amet cursus</div>
+        <div class="left_text">
+          <div class="userloginarea">
+            <label>
+            <input name="textfield" type="text" class="userlogin_textbox" value="Name" />
+            </label>
+          </div>
+          <div class="userloginarea">
+            <label>
+            <input name="textfield2" type="password" class="userlogin_textbox" value="Password" />
+            </label>
+          </div>
+        </div>
+        <div class="h4">Not yet a Member? <a href="#" class="register">Register Now</a></div>
+        <div class="h4"><a href="#" class="button">Login</a></div>
+        <div class="h3">Projects </div>
+        <div class="h2">Sed ut nisi faucibus lectus semper sagi<br />
+          Pellentesque ullamcorper.</div>
+        <div class="h2">
+          <div class="projectpic"><a href="#"><img src="images/project1.jpg" alt="Project1" width="104" height="84" border="0" /></a></div>
+          <div class="projectpic">
+            <div align="right"><a href="#"><img src="images/project2.jpg" alt="Project2" width="105" height="84" border="0" /></a></div>
+          </div>
+        </div>
+        <div class="projects_next"><a href="#" class="button1">Next</a></div>
+      </div>
+      <div class="mid">
+        <div class="h1">Company in nutshell</div>
+        <div class="mid_h2">Sed ut nisi faucibus lectus semper sagittis. Pellentesque ullamcorper quam fringilla lacus. </div>
+        <div class="mid_text"><span class="mid_h3">Sed ut nisi faucibus lectus semper sagittis.</span> Pellentesque ullamcorper quam fringilla lacus.<span class="mid_h3"> Fusce nisl ipsum</span> malesuada sed, varius ac, sagittis et, ipsum. Nullam posuere porttitor orci. Quisque semper.</div>
+        <div class="mid_text">Curabitur urna elit, <span class="mid_h3">egestas condimentumsemper</span> etrhoncus matti quam. Nulla suscipit erat ac odio. tumsemper etrhoncus  wuam.</div>
+        <div class="mid_text"><a href="#" class="button">Read More </a></div>
+        <div class="h3">Our main purpose</div>
+        <div class="mid_h2">Vestibulum ante ipsum primis in faucibus orci luctus etucibus ultrices posuere cubilia Curae.</div>
+        <div class="mid_pic"></div>
+        <div class="mid_text">
+          <p><a href="#" class="mid_menu">Maecenas pellentesque ipsum in pedec urabitur</a></p>
+          <p><a href="#" class="mid_menu">Pellentesque habitant morbi tristique senectus</a></p>
+          <p><a href="#" class="mid_menu">Nulla bibendum eros sed ultrices sollicitudin</a></p>
+          <p><a href="#" class="mid_menu">Sed adipiscing orci metus vestibulum nibh</a></p>
+        </div>
+      </div>
+      <div class="right">
+        <div class="right_h1">New service overview</div>
+        <div class="services_area">
+          <div class="calendar_pic">
+            <div class="calendar_date">
+              <div align="center">15</div>
+            </div>
+            <div class="calendar_month">
+              <div align="center">June</div>
+            </div>
+          </div>
+          <div class="calendar_text">Suspendisse tortor leo!!!</div>
+          <div class="calendar_text1"><img src="images/star.png" alt="Star" width="16" height="16" /> Nullam dapibus laoreet magna.uspendisse tortor leo.</div>
+        </div>
+        <div class="linkarea"><a href="#" class="link">Quisque vel metus non ante vehicul consectetuer.</a></div>
+        <div class="services_clientname"><strong>BY</strong> jone jackson</div>
+        <div class="services_area">
+          <div class="calendar_pic">
+            <div class="calendar_date">
+              <div align="center">16</div>
+            </div>
+            <div class="calendar_month">
+              <div align="center">June</div>
+            </div>
+          </div>
+          <div class="calendar_text">Wqeruspendisse tortor de!!!</div>
+          <div class="calendar_text1"><img src="images/star.png" alt="Star" width="16" height="16" /> Nullam dapibus laoreet magna.uspendisse tortor leo.</div>
+        </div>
+        <div class="linkarea"><a href="#" class="link">Quisque vel metus non ante vehicul consectetuer.</a></div>
+        <div class="services_clientname"><strong>BY</strong> jone jackson</div>
+        <div class="right_h3">Quick Contact</div>
+        <div class="right_contactbox">
+          <label>
+          <input name="textfield3" type="text" class="right_contact_textbox" value="Your Name" />
+          </label>
+        </div>
+        <div class="right_contactbox">
+          <label>
+          <input name="textfield32" type="text" class="right_contact_textbox" value="Your Email Address" />
+          </label>
+        </div>
+        <div class="right_contactbox">
+          <label>
+          <textarea name="textarea" cols="0" rows="0" class="right_contact_msgtextbox">Your Message</textarea>
+          </label>
+        </div>
+        <div class="right_contactbox"><a href="#" class="button">Submit</a></div>
+      </div>
+    </div>
+    <div id="fottermain">
+      <div id="fotter">
+        <div class="fotter_linksarea">
+          <div align="center"><a href="#" class="fotter_link">Home</a> | <a href="#" class="fotter_link">About Us</a> | <a href="#" class="fotter_link">Newsletter</a> | <a href="#" class="fotter_link">Duty</a> | <a href="#" class="fotter_link">Output</a> | <a href="#" class="fotter_link">Solution</a> | <a href="#" class="fotter_link">Testimonial</a> | <a href="#" class="fotter_link">Contact Us</a></div>
+        </div>
+        <div class="fotter_copyrightsarea">
+          <div align="center">Designed by <a href="http://sc.chinaz.com" target="_blank" class="copyrightslink">sc.chinaz.com</a> and brought to you by <a href="http://www.smashingmagazine.com" target="_blank" class="copyrightslink">SmashingMagazine</a></div>
+        </div>
+        <div class="fotter_validationarea">
+          <div class="validation">
+            <div align="center"><a href="http://validator.w3.org/check?uri=referer" target="_blank" class="validationlink">xhtml</a></div>
+          </div>
+          <div class="validation">
+            <div align="center"><a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" class="validationlink">css</a></div>
+          </div>
+          <div class="validation">
+            <div align="center"><a href="http://www.contentquality.com/mynewtester/cynthia.exe?Url1=http://demo.sc.chinaz.com/508-check/125/" target="_blank" class="validationlink">508</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</form>
+<div style="display:none"><script src='http://v7.cnzz.com/stat.php?id=155540&web_id=155540' language='JavaScript' charset='gb2312'></script></div>
+</body>
+
+</html>
